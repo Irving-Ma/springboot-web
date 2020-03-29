@@ -21,7 +21,7 @@ public class TestController {
     private OrderCouponService orderCouponService;
 
     /**
-     * 列表
+     * 列表，测试
      */
     @RequestMapping("/index")
     public ModelAndView list(){
