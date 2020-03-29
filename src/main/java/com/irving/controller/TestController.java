@@ -18,7 +18,7 @@ public class TestController {
     private OrderCouponService orderCouponService;
 
     /**
-     * 列表
+     * 列表，测试流程
      */
     @RequestMapping("/index")
     public ModelAndView list(){
