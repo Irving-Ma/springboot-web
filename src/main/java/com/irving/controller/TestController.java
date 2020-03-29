@@ -11,7 +11,10 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.HashMap;
 import java.util.Map;
 
-
+/**
+ * @author Irving
+ * @deprecated 添加注释
+ */
 @RestController
 public class TestController {
 	@Autowired
